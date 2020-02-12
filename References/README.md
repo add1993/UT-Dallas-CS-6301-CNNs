@@ -45,21 +45,21 @@ http://www.cs.cmu.edu/~mgormley/courses/606-607-f18/schedule.html
 
 ### Networks
 
+Google machine learning crash course, practica, guides and glossary  
+https://developers.google.com/machine-learning/crash-course/  
+https://developers.google.com/machine-learning/practica/  
+https://developers.google.com/machine-learning/guides/  
+https://developers.google.com/machine-learning/glossary/  
+
 Deep learning  
 http://www.deeplearningbook.org
 
 TensorFlow YouTube Channel  
 https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ/videos  
 
-TensorFlow 1.x  
+TensorFlow  
 https://www.tensorflow.org  
 https://github.com/tensorflow/tensorflow  
-https://github.com/tensorflow/models  
-
-TensorFlow 2.x  
-https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d  
-https://www.tensorflow.org/beta  
-https://www.tensorflow.org/beta/guide/keras/overview  
 
 Google colaboratory  
 https://research.google.com/seedbank/  
